@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\mousu\source\repos\Cpp_Mousuf_Zaman_2020_CW\Cpp_Mousuf_Zaman_2020_CW\main.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mousu\source\repos\Cpp_Mousuf_Zaman_2020_CW\Cpp_Mousuf_Zaman_2020_CW\main.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mousu\source\repos\Cpp_Mousuf_Zaman_2020_CW\Cpp_Mousuf_Zaman_2020_CW\main.cpp(138,16): warning C4101: 'direction': unreferenced local variable
+C:\Users\mousu\source\repos\Cpp_Mousuf_Zaman_2020_CW\Cpp_Mousuf_Zaman_2020_CW\main.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mousu\source\repos\Cpp_Mousuf_Zaman_2020_CW\Cpp_Mousuf_Zaman_2020_CW\main.cpp(153,16): warning C4101: 'direction': unreferenced local variable
+C:\Users\mousu\source\repos\Cpp_Mousuf_Zaman_2020_CW\Cpp_Mousuf_Zaman_2020_CW\main.cpp(199,16): error C2084: function 'std::vector<std::string,std::allocator<std::string>> split_string(const std::string &)' already has a body
+C:\Users\mousu\source\repos\Cpp_Mousuf_Zaman_2020_CW\Cpp_Mousuf_Zaman_2020_CW\game.h(8): message : see previous definition of 'split_string'
+C:\Users\mousu\source\repos\Cpp_Mousuf_Zaman_2020_CW\Cpp_Mousuf_Zaman_2020_CW\main.cpp(252,14): error C2065: 'split_string': undeclared identifier

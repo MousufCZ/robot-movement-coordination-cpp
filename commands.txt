@@ -1,0 +1,19 @@
+show
+within 100
+turnleft 20
+move 20
+turnleft 20
+move 20
+turnleft 20
+move 20
+turnright 7
+move 73
+move 19
+turnright 20
+move 20
+turnright 20
+move 20
+turnleft 57
+move 57
+travelled
+show
