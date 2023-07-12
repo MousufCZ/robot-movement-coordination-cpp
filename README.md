@@ -1,5 +1,7 @@
 # robot-movement-coordination-cpp
 
-**Project:** Moving robot using coordination.   
+**Project title:** Moving robot using coordination.   
+**Purpose of project:**  
 **Course:** C++    
 **Organisation:** City, Univeristy of London  
+**Version/Data:**  
